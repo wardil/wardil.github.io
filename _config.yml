@@ -1,0 +1,23 @@
+title:            Explore
+description:      This is a personal website of Lucas Wardil
+disqus_shortname: wardil
+#Comment out url when working locally to resolve base urls correctly
+url:              http://wardil.github.io
+
+# Owner/author information
+owner:
+  name:           Lucas Wardil
+  avatar:         avatar.jpg
+  bio:            "Working in the field of evolutionary dynamics. Currently based in Vancouver"
+  email:          wardil@math.ubc.ca
+  # Social networking links used in footer. Update and remove as you like.
+  #twitter:        
+  facebook:       
+  #github:         
+  #stackexchange:  
+  linkedin:          
+  #instagram:      
+  #flickr:         
+  #tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  #google_plus:
