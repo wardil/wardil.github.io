@@ -3,6 +3,7 @@ description:      This is a personal website of Lucas Wardil
 disqus_shortname: wardil
 #Comment out url when working locally to resolve base urls correctly
 url:              http://wardil.github.io
+baseurl: http://wardil.github.io
 
 # Owner/author information
 owner:
